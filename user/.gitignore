@@ -1,3 +1,4 @@
-private
+*
+!ccktools
 !README.md
 !.gitignore

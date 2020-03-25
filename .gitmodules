@@ -1,0 +1,3 @@
+[submodule "user/ccktools"]
+	path = user/ccktools
+	url = https://github.com/carcheky/ccktools.git

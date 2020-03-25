@@ -1,6 +1,0 @@
-[submodule "server/home"]
-	path = server/home
-	url = https://github.com/carcheky/home-lamp.git
-[submodule "user/ccktools"]
-	path = user/ccktools
-	url = https://github.com/carcheky/ccktools.git

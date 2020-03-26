@@ -22,7 +22,9 @@ echo "Estableciendo WslServer por defecto, espera..."
 wsl -s WslServer
 
 ping 127.0.0.1 -n 2 > nul
-
+wsl --distribution WslServer --user user /usr/bin/dos2unix /mnt/c/wsl/user/ccktools/bin/fix-bin
+wsl --distribution WslServer --user user bash /mnt/c/wsl/user/ccktools/bin/fix-bin
+ping 127.0.0.1 -n 2 > nul
 @echo on
 echo "seleccionando usuario..."
 @echo off

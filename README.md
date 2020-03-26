@@ -1,6 +1,7 @@
 # WslServer
 
 - Usando Git bash, Clona el repo en tu unidad C:\\wsl
+
     ````git
     git clone --recurse-submodules https://github.com/carcheky/WslServer.git C:\\wsl
     ````

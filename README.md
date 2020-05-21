@@ -8,6 +8,6 @@
 
 - Descarga el siguiente archivo y colócalo en ``C:\wsl\INSTALLER\WslServer.tar.gz``
 
-    [Descargar WslServer.tar.gz](https://drive.google.com/open?id=1FG4C9sllUY_kYRq7xkQ0VLS8KOcFCfAP)
+    [Descargar WslServer.tar.gz](https://drive.google.com/drive/folders/1Uw5rjVzwM7xooR1Juyr_EHQdHPPZbEzP?usp=sharing)
 
 - Doble clic ``C:\wsl\INSTALLER\INSTALL_SERVER.cmd``
